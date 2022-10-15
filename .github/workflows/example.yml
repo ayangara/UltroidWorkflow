@@ -9,11 +9,11 @@ on:
 
 
 env:
-  api_id: 1170144
-  api_hash: '7cf4f6769b5cfcd1c3b7bd645779c634'
-  session: ${{ secrets.session }}
-  redis_uri: ${{ secrets.redis_uri }}
-  redis_password: ${{ secrets.redis_password }}
+  api_id: 11574504
+  api_hash: '2ea578f8eaa085ca916ac7cccef3f8cd'
+  session: ${{1BVtsOLoBu6z9H9RHcns2nf0rME58ucKEOCW2i734fqhHcb0czEAhQp3XtFq8Yff5B1g0yvXzJPLqQLRHr5776K0vwc63SFSLf3e8eun97FAWtChyidfpt84CI0w-x4c2Y7GJgdkEyXMSn0d5ALce6-roAQqgi6qslYSCiH34E0bPfVthjO7t1pM90KybBkQnIV5Rxf1RveOZGz7FHoA7GPgqj1z240ikNpk1YvRwuVe5Vuv0ij_Dpki0_7fJoWFhPeblllXZwEce_0urYF1VjJHGCdgwD3idZcdJWQDByqXE6N1Hovh3t6aGeLHU5SE9N3yKSbL9ahutyb49k6epvv2HPyD8V_c=}}
+  redis_uri: ${{redis-13063.c12.us-east-1-4.ec2.cloud.redislabs.com:13063}}
+  redis_password: ${{EO4tpf7BjbarKX786ud2QVIP1mKQKy04}}
   database_url: ${{ secrets.database_url }}
 
 jobs:
